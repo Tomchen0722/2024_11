@@ -1,0 +1,7 @@
+streamlit
+dash
+dash_tools
+tk_tools
+plotly
+callback
+openpyxl
